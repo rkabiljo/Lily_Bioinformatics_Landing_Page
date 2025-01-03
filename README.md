@@ -8,7 +8,11 @@ This is a collection of links to repositories holding code / instructions develo
 
 [apply panels in the UCL HPC environent](https://github.com/rkabiljo/applyPanel_UCL_cluster)
 
+[MitoSalt for deletions and duplications](https://github.com/rkabiljo/MitoSalt_UCL_Cluster)
+
 [experimenting with extraction of deletion features from MitoSalt output](https://github.com/rkabiljo/deletionParameters)
+
+[MitoHPC2 - works on WGS and LongReads](https://github.com/rkabiljo/MitoHPC2_LongReads_UCL)
 
 
 ## WGS in the GeL environment
