@@ -8,6 +8,8 @@ This is a collection of links to repositories holding code / instructions develo
 
 [apply panels in the UCL HPC environent](https://github.com/rkabiljo/applyPanel_UCL_cluster)
 
+[create a bed file for genes in a panel, needed to apply panels](https://github.com/tamjhill/createBedFile)
+
 [MitoSalt for deletions and duplications](https://github.com/rkabiljo/MitoSalt_UCL_Cluster)
 
 [experimenting with extraction of deletion features from MitoSalt output](https://github.com/rkabiljo/deletionParameters)
@@ -29,6 +31,9 @@ This is a collection of links to repositories holding code / instructions develo
 
 ## General information for UCL HPC and RDS
 [General information paths, copying, connecting on UCL HPC](https://github.com/rkabiljo/UCL_HPC_settings)
+
+
+
 
 ## RNASeq, short reaads, UCL HPC
 [RNASeq processing on UCL HPC: Salmon,Majiq](https://github.com/rkabiljo/RNASeq_UCL)
