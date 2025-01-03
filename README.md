@@ -31,6 +31,8 @@ This is a collection of links to repositories holding code / instructions develo
 [RNASeq work done for Micol - includind differential transcripts, genes, etc](https://github.com/rkabiljo/RNASeq_Micol)
 
 ## Work in progress or not used
-[Acollection of scripts to programatically access GeL panel app APIs](https://github.com/rkabiljo/panelAppWork) <br>
-[MitoHPC on UCL Kathleen, moved now to Myriad](https://github.com/rkabiljo/MitoHPCOnUCL) <br>
-[MitoSalt on UCL Kathleen, moved now to Myriad] (https://github.com/rkabiljo/MitoSALtOnKathleen)
+[Acollection of scripts to programatically access GeL panel app APIs](https://github.com/rkabiljo/panelAppWork)
+
+[MitoHPC on UCL Kathleen, moved now to Myriad](https://github.com/rkabiljo/MitoHPCOnUCL)
+
+[MitoSalt on UCL Kathleen, moved now to Myriad](https://github.com/rkabiljo/MitoSALtOnKathleen)
