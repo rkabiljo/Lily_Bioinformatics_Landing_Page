@@ -27,6 +27,7 @@ This is a collection of links to repositories holding code / instructions develo
 [MitoHPC2 on Long Read data, both PacBio and ONT](https://github.com/rkabiljo/MitoHPC2_LongReads_UCL)
 
 [phase two mitochondrial variants](https://github.com/rkabiljo/phaseMitoVariants)
+[PacBio align and call variants](https://github.com/tamjhill/pacbioAlignerCaller)
 
 
 ## General information for UCL HPC and RDS
