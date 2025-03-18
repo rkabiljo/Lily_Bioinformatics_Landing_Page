@@ -30,6 +30,8 @@ This is a collection of links to repositories holding code / instructions develo
 
 [PacBio align and call variants](https://github.com/tamjhill/pacbioAlignerCaller)
 
+[Apply Panels and Run Agnostic on the variants called by PacBio human variation wdl](https://github.com/rkabiljo/PacBio_Panels_and_Agnostic)
+
 
 ## General information for UCL HPC and RDS
 [General information paths, copying, connecting on UCL HPC](https://github.com/rkabiljo/UCL_HPC_settings)
