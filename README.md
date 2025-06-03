@@ -44,7 +44,7 @@ This is a collection of links to repositories holding code / instructions develo
 
 [As above, but focussed on these very long reads and examining where they come from] (https://github.com/rkabiljo/extraLongMito)
 
-[Analyse and cluster deletions in Long Reads](https://github.com/tamjhill/deletions_duplications)
+[Analyse and cluster deletions in Long Reads] (https://github.com/tamjhill/deletions_duplications)
 
 
 
