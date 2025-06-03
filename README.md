@@ -38,13 +38,13 @@ This is a collection of links to repositories holding code / instructions develo
 
 ## Long Reads - Deletions and Duplications
 
-[MitoDetective:for PacBio and ONT, calls a single deletion or duplication, will add more] (https://github.com/rkabiljo/mitoDetective)
+[MitoDetective:for PacBio and ONT, calls a single deletion or duplication, will add more](https://github.com/rkabiljo/mitoDetective)
 
-[Useful snippets of code to examine unusual reads on chrM] (https://github.com/rkabiljo/duplication_exploration)
+[Useful snippets of code to examine unusual reads on chrM](https://github.com/rkabiljo/duplication_exploration)
 
-[As above, but focussed on these very long reads and examining where they come from] (https://github.com/rkabiljo/extraLongMito)
+[As above, but focussed on these very long reads and examining where they come from](https://github.com/rkabiljo/extraLongMito)
 
-[Analyse and cluster deletions in Long Reads] (https://github.com/tamjhill/deletions_duplications)
+[Analyse and cluster deletions in Long Reads](https://github.com/tamjhill/deletions_duplications)
 
 
 
