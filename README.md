@@ -23,6 +23,7 @@ This is a collection of links to repositories holding code / instructions develo
 [get deNovo variants from main release trios](https://github.com/rkabiljo/exploreDeNovo_GeL)
 
 ## Long Read Sequencing
+[PacBio RNASeq data processing, IsoSeq](https://github.com/rkabiljo/RNASeq_PacBio)
 
 [downloading, basecalling, and epi2me on ONT data](https://github.com/rkabiljo/LR_ONT_UCL)
 
@@ -55,9 +56,10 @@ This is a collection of links to repositories holding code / instructions develo
 
 
 ## RNASeq, short reaads, UCL HPC
-[RNASeq processing on UCL HPC: Salmon,Majiq](https://github.com/rkabiljo/RNASeq_UCL)
 
-[RNASeq work done for Micol - includind differential transcripts, genes, etc](https://github.com/rkabiljo/RNASeq_Micol)
+[RNASeq on short reads - includind differential transcripts, genes, etc](https://github.com/rkabiljo/RNASeq_shortReads)
+
+[RNASeq Majiq: Salmon,Majiq](https://github.com/rkabiljo/RNASeq_UCL)
 
 ## Work in progress or not used
 [Acollection of scripts to programatically access GeL panel app APIs](https://github.com/rkabiljo/panelAppWork)
