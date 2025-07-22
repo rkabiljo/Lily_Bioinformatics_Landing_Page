@@ -59,7 +59,7 @@ This is a collection of links to repositories holding code / instructions develo
 
 [RNASeq on short reads - includind differential transcripts, genes, etc](https://github.com/rkabiljo/RNASeq_shortReads)
 
-[RNASeq Majiq: Salmon,Majiq](https://github.com/rkabiljo/RNASeq_UCL)
+[RNASeq Majiq and DROP: Salmon,Majiq](https://github.com/rkabiljo/RNASeq_UCL)
 
 ## Work in progress or not used
 [Acollection of scripts to programatically access GeL panel app APIs](https://github.com/rkabiljo/panelAppWork)
