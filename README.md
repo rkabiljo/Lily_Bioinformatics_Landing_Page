@@ -35,6 +35,8 @@ This is a collection of links to repositories holding code / instructions develo
 
 [PacBio align and call variants](https://github.com/tamjhill/pacbioAlignerCaller)
 
+[SVs in PacBio, calling and analysis](https://github.com/tamjhill/longread_sv_cnvs)
+
 [Apply Panels and Run Agnostic on the variants called by PacBio human variation wdl OLD](https://github.com/rkabiljo/PacBio_Panels_and_Agnostic)
 
 [Agnostic Pipeline with Annotated Panels: NEW](https://github.com/rkabiljo/agnostic_pipeline)
