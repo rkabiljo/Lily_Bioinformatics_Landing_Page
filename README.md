@@ -16,6 +16,8 @@ This is a collection of links to repositories holding code / instructions develo
 
 [Retrieve and update panels from Genomics England PanelApp](https://github.com/tamjhill/GE_panel_scripts)
 
+[Tamara's ICGNMD pipelines](https://github.com/tamjhill/ICGNMD_project)
+
 
 ## WGS in the GeL environment
 [apply panels to cohorts of patients in GeL](https://github.com/rkabiljo/applyPanelToCohort)
