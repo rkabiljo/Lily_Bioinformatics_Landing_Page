@@ -24,6 +24,8 @@ This is a collection of links to repositories holding code / instructions develo
 
 [get deNovo variants from main release trios](https://github.com/rkabiljo/exploreDeNovo_GeL)
 
+[Small Variant Workflow - run and process results](https://github.com/tamjhill/GeL_small_variant_workflow/)
+
 ## Long Read Sequencing
 [PacBio RNASeq data processing, IsoSeq](https://github.com/rkabiljo/RNASeq_PacBio)
 
