@@ -43,6 +43,8 @@ This is a collection of links to repositories holding code / instructions develo
 
 [Agnostic Pipeline with Annotated Panels: NEW](https://github.com/rkabiljo/agnostic_pipeline)
 
+[Methylation data: From Long Read BAMs to Epigen Centralsubmission files](https://github.com/rkabiljo/MethylationForEpigenCentral/)
+
 ## Long Reads - Deletions and Duplications
 
 [MitoDetective:for PacBio and ONT, calls a single deletion or duplication, will add more](https://github.com/rkabiljo/mitoDetective)
