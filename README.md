@@ -8,7 +8,7 @@ This is a collection of links to repositories holding code / instructions develo
 
 [experimenting with extraction of deletion features from MitoSalt output](https://github.com/rkabiljo/deletionParameters)
 
-[MitoHPC2 - works on WGS and LongReads](https://github.com/rkabiljo/MitoHPC2_LongReads_UCL)
+[MitoHPC2 - works on WGS and LongReads](https://github.com/rkabiljo/MitoHPC2_LongReads_UCL) -February 2026: check with creators and update to new version
 
 [Retrieve and update panels from Genomics England PanelApp](https://github.com/tamjhill/GE_panel_scripts)
 
