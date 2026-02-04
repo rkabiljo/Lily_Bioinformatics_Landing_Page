@@ -61,12 +61,6 @@ This is a collection of links to repositories holding code / instructions develo
 
 
 
-## General information for UCL HPC and RDS
-[General information paths, copying, connecting on UCL HPC](https://github.com/rkabiljo/UCL_HPC_settings)
-
-
-
-
 ## RNASeq, short reaads
 
 [RNASeq on short reads - includind differential transcripts, genes, etc](https://github.com/rkabiljo/RNASeq_shortReads)
