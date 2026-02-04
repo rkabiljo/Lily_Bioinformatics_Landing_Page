@@ -4,10 +4,6 @@ This is a collection of links to repositories holding code / instructions develo
 
 ## WGS in the UCL HPC environment
 
-[run GATK pipeline to align reads and call variants](https://github.com/rkabiljo/GATK_Myriad)
-
-[apply panels in the UCL HPC environent](https://github.com/rkabiljo/applyPanel_UCL_cluster)
-
 [MitoSalt for deletions and duplications](https://github.com/rkabiljo/MitoSalt_UCL_Cluster)
 
 [experimenting with extraction of deletion features from MitoSalt output](https://github.com/rkabiljo/deletionParameters)
@@ -17,6 +13,11 @@ This is a collection of links to repositories holding code / instructions develo
 [Retrieve and update panels from Genomics England PanelApp](https://github.com/tamjhill/GE_panel_scripts)
 
 [Tamara's ICGNMD pipelines](https://github.com/tamjhill/ICGNMD_project)
+
+[run GATK pipeline to align reads and call variants](https://github.com/rkabiljo/GATK_Myriad) - largely replaced by Tamara's ICGNMD
+
+[apply panels in the UCL HPC environent](https://github.com/rkabiljo/applyPanel_UCL_cluster) - laregely replaced by agnostic (under Long Reads)
+
 
 
 ## WGS in the GeL environment
