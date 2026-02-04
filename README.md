@@ -47,7 +47,7 @@ This is a collection of links to repositories holding code / instructions develo
 
 [Agnostic Pipeline with Annotated Panels: NEW](https://github.com/rkabiljo/agnostic_pipeline)
 
-[Methylation data: From Long Read BAMs to Epigen Centralsubmission files](https://github.com/rkabiljo/MethylationForEpigenCentral/)
+[Methylation data: From Long Read BAMs to Epigen Centralsubmission files](https://github.com/rkabiljo/MethylationForEpigenCentral/)  - for now not using EpiGen central
 
 ## Long Reads - Deletions and Duplications
 
