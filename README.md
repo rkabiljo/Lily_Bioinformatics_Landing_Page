@@ -49,7 +49,7 @@ This is a collection of links to repositories holding code / instructions develo
 
 [Methylation data: From Long Read BAMs to Epigen Centralsubmission files](https://github.com/rkabiljo/MethylationForEpigenCentral/)  - for now not using EpiGen central
 
-[Methylation data: From epi2me results check skewed X methlation XCI] (https://github.com/rkabiljo/skewedXmethylation)
+[Methylation data: From epi2me results check skewed X methlation XCI](https://github.com/rkabiljo/skewedXmethylation)
 
 ## Long Reads - Deletions and Duplications
 
@@ -61,7 +61,7 @@ This is a collection of links to repositories holding code / instructions develo
 
 [Analyse and cluster deletions in Long Reads](https://github.com/tamjhill/deletions_duplications)
 
-***[MitoDetective](https://github.com/tamjhill/MitoDetective)
+[MitoDetective](https://github.com/tamjhill/MitoDetective)
 
 
 
